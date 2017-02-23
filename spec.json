@@ -1,0 +1,13 @@
+{
+  "appType": "web",
+  "appName": "mywebsite",
+  "metrics": true,
+  "bluemix": true,
+  "services": {
+    "cloudant": [
+      {
+        "name": "mywebsiteDB"
+      }
+    ]
+  }
+}
